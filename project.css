@@ -28,6 +28,7 @@ body {
 }
 .navbar a:hover{
   background-color: crimson;
+	text-transform: uppercase;
 }
 
 .fa {
